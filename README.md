@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:E100FF,100:00D4FF&height=200&section=header&text=Tabish%20Ali%20Khan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%E2%80%A2%20Business%20Tools%20Builder&descAlignY=58&descSize=18" alt="banner"/>
+  <img src="assets/banner.png" width="100%" alt="Tabish Ali Khan, AI Automation Developer"/>
 </p>
 
 <p align="center">
